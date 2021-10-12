@@ -1,4 +1,4 @@
-CREATE DATABASE ChickChat;
+CREATE DATABASE chitchat;
 CREATE TABLE user_profile(
 	id_user Int(13) NOT NULL AUTO_INCREMENT,
 	username Varchar(20) NOT NULL,
